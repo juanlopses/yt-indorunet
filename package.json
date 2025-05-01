@@ -1,0 +1,15 @@
+{
+  "name": "youtube-api",
+  "version": "1.0.0",
+  "description": "API para descargar y buscar contenido de YouTube usando ruhend-scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "ruhend-scraper": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
